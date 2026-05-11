@@ -1,9 +1,13 @@
-#🎲 Guess the Number (Java CLI Game
-A logic-based Command Line Interface (CLI) game where the player competes against the computer to guess a randomly generated number. This project focuses on robust input validation and custom exception handling in Java.
+**🎲GUESS THE NUMBER(JAVA CLI GAME)**
+
+
+**A logic-based Command Line Interface (CLI) game where the player competes against the computer to guess a randomly generated number. This project focuses on robust input validation and custom exception handling in Java.**
+
+
 ![Game Screenshot](screenshot.png)
 
 
-##🚀 Features
+**🚀FEATURES**
 Smart Hints: Provides proximity-based feedback (e.g., "try something a little larger" vs. "try something quite larger") to guide the player.
 
 
@@ -15,7 +19,7 @@ Session Control: Includes a prompt every 5 guesses asking the user if they wish 
 
 Clean OOP Structure: Separates game logic (Game.java) from the executable entry point (GuessTheNumber.java).   
 
-##🛠️ Concepts Demonstrated
+🛠️** CONCEPTS DEMONSTRATED**
 
 Classes & Objects: Modular design separating the Game engine from the Player interface.   
 
@@ -28,7 +32,7 @@ I/O Streams: Efficiently reading user input using BufferedReader and InputStream
 
 Control Flow: Implementation of while loops, nested conditionals, and system exits.   
 
-##🎮 How to Play
+##🎮** HOW TO PLAY**
 
 Run the application: Execute GuessTheNumber.java.   
 
@@ -41,4 +45,4 @@ Feedback: * If you are within 7 units of the target, the game suggests a "little
 If you are further than 8 units away, it suggests a "quite" large change.   
 
 
-Win: The game ends when you guess the correct number, displaying your total attempt count.
+**WIN** :  The game ends when you guess the correct number, displaying your total attempt count.
