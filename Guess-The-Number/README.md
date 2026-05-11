@@ -1,6 +1,8 @@
 🎲 Guess the Number (Java CLI Game)
 A logic-based Command Line Interface (CLI) game where the player competes against the computer to guess a randomly generated number. This project focuses on robust input validation and custom exception handling in Java.
 ![Game Screenshot](screenshot.png)
+
+
 🚀 Features
 Smart Hints: Provides proximity-based feedback (e.g., "try something a little larger" vs. "try something quite larger") to guide the player.
 
